@@ -48,7 +48,7 @@ All datasets: [Google Drive Folder](https://drive.google.com/your-link-here)
 
 ## Streamlit App
 
-**Live app:** [Add your Streamlit URL here]
+**Live app:** [https://air-quality-predictor2-u8wqtkam3tbrbxabvb9weq.streamlit.app/]
 
 To run locally:
 ```bash
