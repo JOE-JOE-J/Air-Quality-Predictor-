@@ -22,7 +22,7 @@ Three models were trained and compared — Logistic Regression, Random Forest, a
 | NOAA Climate Data | Daily temperature, precipitation, wind speed | https://www.ncei.noaa.gov/cdo-web/search |
 | U.S. Census Bureau | County-level population estimates | https://data.census.gov |
 
-All datasets: [Google Drive Folder]([[[https://drive.google.com/your-link-here](https://drive.google.com/drive/folders/1TJunSNkPOfCi8fSakOOea0OoAVIFqn_G?usp=drive_link)](https://drive.google.com/drive/folders/1TJunSNkPOfCi8fSakOOea0OoAVIFqn_G?usp=drive_link)])
+All datasets: [Google Drive Folder][https://drive.google.com/drive/folders/1TJunSNkPOfCi8fSakOOea0OoAVIFqn_G?usp=drive_link]
 
 ---
 
@@ -48,7 +48,7 @@ All datasets: [Google Drive Folder]([[[https://drive.google.com/your-link-here](
 
 ## Streamlit App
 
-**Live app:** [https://air-quality-predictor2-u8wqtkam3tbrbxabvb9weq.streamlit.app/]
+**Live app:** [(https://air-quality-predictor2-u8wqtkam3tbrbxabvb9weq.streamlit.app/)]
 
 To run locally:
 ```bash
